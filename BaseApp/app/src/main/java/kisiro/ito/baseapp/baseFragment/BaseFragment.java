@@ -1,5 +1,19 @@
 package kisiro.ito.baseapp.baseFragment;
 
+//=============================================================================================
+//  名前空間    ：  kisiro.ito.baseapp.baseFragment;
+//
+//  クラス名    ：  baseFragment
+//
+//  機能        ：  ベースフラグメント
+//
+//  備考        ：
+//
+//  作成者      ：  [00] 2017.09.12 P.cast I.Hiroyuki
+//
+//  更新者      ：  [00] 2017.09.12 P.cast I.Hiroyuki
+//=============================================================================================
+
 import android.content.Context;
 
 import android.os.Bundle;

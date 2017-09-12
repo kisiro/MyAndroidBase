@@ -1,7 +1,7 @@
 package kisiro.ito.baseapp.baseActivity;
 
 //=============================================================================================
-//  名前空間    ：  jp.co.ito.base
+//  名前空間    ：  kisiro.ito.baseapp.baseActivity;
 //
 //  クラス名    ：  BaseActivity
 //
